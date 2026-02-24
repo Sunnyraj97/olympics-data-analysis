@@ -1,5 +1,5 @@
 
-# Olympic Games Analysis (Power BI Dashboard)
+# Olympic Athlete Performance & Participation Analysis (Power BI Dashboard)
 
 ## 🎯 Objective
 This project analyzes 120 years of Olympic history to understand:
