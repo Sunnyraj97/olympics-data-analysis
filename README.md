@@ -1,4 +1,4 @@
-# Olympic Athlete Performance & Participation Analysis (Power BI)
+# Olympics Data Analysis (Power BI)
 
 ## Project Overview
 
