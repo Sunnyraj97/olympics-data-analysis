@@ -1,6 +1,6 @@
 # Olympics Data Analysis (Power BI)
 ## Dashboard Preview
-![Olympics Dashboard](dashboard-img.PNG)
+![Olympics Dashboard](Report_PNG.PNG)
 ## Project Overview
 
 Analysed **120 years of Olympic history** using Power BI to understand
